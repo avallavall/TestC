@@ -1,3 +1,5 @@
+*.cbp
+*.depend
 # Prerequisites
 *.d
 
